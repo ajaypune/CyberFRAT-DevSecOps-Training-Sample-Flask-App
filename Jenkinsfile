@@ -1,7 +1,7 @@
 pipeline {
   environment {
-    registry = "thedeepsyadav/devsecops-training"
-    registryCredential = "DockerHub"
+    registry = "ajaypune2020 / ajaydevsecops2020"
+    registryCredential = "ajaydocker"
     dockerImage = ''
   }
   
